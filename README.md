@@ -32,7 +32,7 @@ To send your BCash to an exchange you'll have to use a wallet of the BCash netwo
 
 Support for BCash isn't huge. The most obvious way to do this currently is with [Electron Cash](http://electroncash.org/). Note that Electron Cash has nothing to do with the real Electrum, and we cannot trust this app fully - it *may steal your Bitcoins*. It is advised to run it in a [Virtual Machine](https://www.howtogeek.com/196060/beginner-geek-how-to-create-and-use-virtual-machines/). 
 
-Once you install the wallet, import your old Bitcoin address with the private key. The wallet might show the Bitcoin transaction to the new address (a bug?) but you should still be able to spend your BCash.
+Once you install the wallet, import your old Bitcoin address with the private key. If the wallet shows the transaction to the new Bitcoin address, it's probably listenning to the Bitcoin network instead of the BCash one. Go to **Tools**, **Network**, and you can see the servers sorted into 2 groups. These are the two chains. Right click on the group that includes `cascharia.com` and `criptolayer.com` and choose **Follow this branch**. You should then be able to spend your BCash.
 
 ### Hardware Wallets
 
