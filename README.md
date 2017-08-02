@@ -28,7 +28,7 @@ To send your BCash to an exchange you'll have to use a wallet of the BCash netwo
 
 ***how?***
 
-Support for BCash isn't huge. The most obvious way to do this currently is with [Electrum Cash](http://electroncash.org/). Note that Electrum Cash has nothing to do with the real Electrum, and we cannot trust this app fully - it *may steal your Bitcoins*. It is advised to run it in a [Virtual Machine](https://www.howtogeek.com/196060/beginner-geek-how-to-create-and-use-virtual-machines/). 
+Support for BCash isn't huge. The most obvious way to do this currently is with [Electron Cash](http://electroncash.org/). Note that Electron Cash has nothing to do with the real Electrum, and we cannot trust this app fully - it *may steal your Bitcoins*. It is advised to run it in a [Virtual Machine](https://www.howtogeek.com/196060/beginner-geek-how-to-create-and-use-virtual-machines/). 
 
 Once you install the wallet, import your old Bitcoin address with the private key. The wallet might show the Bitcoin transaction to the new address (a bug?) but you should still be able to spend your BCash.
 
@@ -36,6 +36,7 @@ Once you install the wallet, import your old Bitcoin address with the private ke
 
 * [Instructions for Ledger Blue and Nano S owners](http://support.ledgerwallet.com/knowledge_base/topics/bitcoin-cash)
 * [Instructions for Trezor owners](https://blog.trezor.io/claim-bcash-bitcoin-cash-bch-bcc-trezor-wallet-f0a810d5864a)
+* [Instructions for Digital Bitbox owners](https://digitalbitbox.com/faq)
 
 ## Step 3 - Send the BCash to an exchange of your choice
 
