@@ -1,8 +1,8 @@
 # A complete guide to sell your free Bitcoin Cash for Bitcoin
 
-This guide assumes you had Bitcoin in possesion prior the hard fork, and you know your private key for those Bitcoins.
+This guide assumes you had Bitcoins in possesion prior the hard fork, and you know your private key for those Bitcoins.
 
-As of 02/08 11:00 UTC, it's not easy or possible to deposit BCH to any of the leading exhanges, but this guie will help you to sell your BCH once these exchange do support BCH deposits.
+As of 02/08 11:00 UTC, it's not easy or possible to deposit BCH to any of the leading exhanges, but this guide will help you  sell your BCH once these exchange do support BCH deposits.
 
 ## Step 1 - Secure your Bitcoin
 
