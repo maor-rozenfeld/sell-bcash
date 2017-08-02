@@ -2,7 +2,7 @@
 
 > **TAKE A DEEP BREATH**<br/>
 > Your BCash doesn't go anywhere. <br/>
-> As of 02/08 15:00 UTC, it is not possible to deposit BCash to an exchange in order to trade it for Bitcoin. Please be patient and check this guide later.
+> As of 02/08 17:00 UTC, it is not possible to deposit BCash to an exchange in order to trade it for Bitcoin. Please be patient and check this guide later.
 
 This guide assumes you had Bitcoins in possesion prior the hard fork, and you know your private key for those Bitcoins.
 
@@ -10,14 +10,13 @@ This guide assumes you had Bitcoins in possesion prior the hard fork, and you kn
 
 ***why?***
 
-To make sure your Bitcoins don't get lost or stolen, you will need to move them to a new wallet. To cash out your BCash you're going to have to install a BCash only which we can't trust completely yet, and possibly expose your private keys. By moving your Bitcoins to a new address, you're removing that risk. Simply put, you're going to empty both Bitcoin and BCash from the old address.
-
+To make sure your Bitcoins don't get lost or stolen, you will need to move them to a new wallet. To cash out your BCash you're going to have to install a BCash wallet, which we can't trust completely yet, and possibly expose your private keys. By moving your Bitcoins to a new address, you're removing that risk. Simply put, you're going to empty both Bitcoin and BCash from the old address - Bitcoin first.
 
 ***how?***
 
 If you're using a wallet like Electrum, *you must create a new seed*, keep it safe and don't share it with anyone. Once you have your new wallet up, send your bitcoins to the new wallet.
 
-If all you have is a private key, you can accomplish this is via the supported wallets [listed here](http://bitcoin.org/en/choose-your-wallet). For example, in the [blockchain wallet](http://blockchain.info/wallet), you should create an account, go to *Settings*, *Addresses*, and then *Import Addresses*. Paste your private key, and you'll then be able to *Spend* the address balance to a new one of your choice.
+If all you have is a private key, you can accomplish this via the supported wallets [listed here](http://bitcoin.org/en/choose-your-wallet). For example, in the online [blockchain wallet](http://blockchain.info/wallet), you should create an account, go to *Settings*, *Addresses*, and then *Import Addresses*. Paste your private key, and you'll then be able to *Spend* the address balance to a new one of your choice. *Note: Using Blockchain wallet itself, with a seed, isn't considered the most secure by some, but in this case we're only importing an address and spending it immediatly*. 
 
 
 ## Step 2 - Install a BCash wallet and import your old Bitcoin address
