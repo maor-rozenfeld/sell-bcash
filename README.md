@@ -2,6 +2,7 @@
 
 > **TAKE A DEEP BREATH**<br/>
 > Your BCash doesn't go anywhere. <br/>
+> As of 02/08 18:20 UTC, the known exchanges to support BCash deposits are HitBTC and ViaBTC.
 
 This guide assumes you had Bitcoins in possesion prior the hard fork, and you know your private key for those Bitcoins.
 
@@ -42,17 +43,26 @@ Once you install the wallet, import your old Bitcoin address with the private ke
 
 There's no magic that transforms BCash into Bitcoin. You'll need to sell it in an exchange site.
 
-
 ***how?***
 
-- [HitBTC](https://hitbtc.com/) is accepting BCH deposits, without any KYC, and you can exchange it after only 2 confirmations.
-- [ViaBTC](https://www.viabtc.com/) is accepting BCH deposits, and you can exchange it after only 20 confirmations.
+The following exchange sites are said to support BCash deposits.
 
-BCash mining is currenly really slow, with many hours between each mined block. Only after a difficulty adjustment, the network will be usable.
+* [HitBTC](https://hitbtc.com/) is accepting BCash deposits, without any customer verification process, and allow you to exchange it only after 2 confirmations.
+- [ViaBTC](https://www.viabtc.com/) is accepting BCH deposits, and you can exchange it only after 20 confirmations.
 
-You can check the blocks being mined on [BlockDozer](http://blockdozer.com/insight/blocks).
-
+You can check the blocks being mined on [BlockDozer](http://blockdozer.com/insight/blocks) or [Blockchair](https://blockchair.com/bitcoin-cash/blocks).
 
 ## Step 4 - Sell the BCash for Bitcoins
 
+More detailed instructions will follow, but each exchange site has its own interface and it should be pretty straight-forward.
+
+
 ## Step 5 - Withdraw your free Bitcoins to your new Bitcoin address
+
+***why?***
+**Your Bitcoins aren't yours if you don't own the private keys.** You should only leave Bitcoin in an exchange site if you're actively trading it. If you're not, **do not leave it in the exchange site**. Exchange sites are being hacked day and night and people lose their Bitcoins because of this mistake.
+
+***how?***
+
+More detailed instructions will follow, but feel free to withdraw the free Bitcoin to the new address you've created on Step 1, or create another new address if you like.
+
