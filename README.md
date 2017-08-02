@@ -33,6 +33,12 @@ Support for BCash isn't huge. The most obvious way to do this currently is with 
 
 Once you install the wallet, import your old Bitcoin address with the private key. The wallet might show the Bitcoin transaction to the new address (a bug?) but you should still be able to spend your BCash.
 
+Hardware Wallets
+
+If using a Ledger Hardware wallet such as Ledger Blue or Nano S follow this guide From ledger to secure your coins and install the BCH wallet
+
+http://support.ledgerwallet.com/knowledge_base/topics/bitcoin-cash
+
 ## Step 3 - Send the BCash to an exchange of your choice
 
 ***why?***
