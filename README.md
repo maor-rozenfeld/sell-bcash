@@ -1,9 +1,7 @@
 # A complete guide to sell your free Bitcoin Cash for Bitcoin
 
 > **TAKE A DEEP BREATH**
-
 > Your Bitcoin Cash doesn't go anywhere. 
-
 > As of 02/08 15:00 UTC, it is not possible to deposit Bitcoin Cash to an exchange in order to trade it for Bitcoin. Please be patient and check this guide later.
 
 This guide assumes you had Bitcoins in possesion prior the hard fork, and you know your private key for those Bitcoins.
