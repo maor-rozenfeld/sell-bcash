@@ -6,7 +6,7 @@
 
 This guide assumes you had Bitcoins in possesion prior the hard fork, and you know your private key for those Bitcoins.
 
-## Step 1 - Secure your Bitcoin
+## Step 1 - Secure your Bitcoins
 
 ***why?***
 
