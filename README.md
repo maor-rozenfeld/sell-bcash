@@ -15,7 +15,7 @@ To make sure your Bitcoins don't get lost or stolen, you will need to move them 
 
 If you're using a wallet like Electrum, *you must create a new seed*, keep it safe and don't share it with anyone. Once you have your new wallet up, send your bitcoins to the new wallet.
 
-If all you have is a private key, you can accomplish this via the supported wallets [listed here](http://bitcoin.org/en/choose-your-wallet). For example, in the online [blockchain wallet](http://blockchain.info/wallet), you should create an account, go to *Settings*, *Addresses*, and then *Import Addresses*. Paste your private key, and you'll then be able to *Spend* the address balance to a new one of your choice. *Note: Using Blockchain wallet itself, with a seed, isn't considered the most secure by some, but in this case we're only importing an address and spending it immediatly*.
+If all you have is a private key, you can accomplish this via [the supported wallets](http://bitcoin.org/en/choose-your-wallet). For example, in the online [blockchain wallet](http://blockchain.info/wallet), you should create an account, go to *Settings*, *Addresses*, and then *Import Addresses*. Paste your private key, and you'll then be able to *Spend* the address balance to a new one of your choice. *Note: Using Blockchain wallet itself, with a seed, isn't considered the most secure by some, but in this case we're only importing an address and spending it immediatly*.
 
 
 ## Step 2 - Install a BCash wallet and import your old Bitcoin address
@@ -30,6 +30,11 @@ To send your BCash to an exchange you'll have to use a wallet of the BCash netwo
 Support for BCash isn't huge. The most obvious way to do this currently is with [Electrum Cash](http://electroncash.org/). Note that Electrum Cash has nothing to do with the real Electrum, and we cannot trust this app fully - it *may steal your Bitcoins*. It is advised to run it in a [Virtual Machine](https://www.howtogeek.com/196060/beginner-geek-how-to-create-and-use-virtual-machines/).
 
 Once you install the wallet, import your old Bitcoin address with the private key. The wallet might show the Bitcoin transaction to the new address (a bug?) but you should still be able to spend your BCash.
+
+### Hardware Wallets
+
+* [Instructions for Ledger Blue and Nano S owners](http://support.ledgerwallet.com/knowledge_base/topics/bitcoin-cash)
+* [Instructions for Trezor owners](https://blog.trezor.io/claim-bcash-bitcoin-cash-bch-bcc-trezor-wallet-f0a810d5864a)
 
 ## Step 3 - Send the BCash to an exchange of your choice
 
