@@ -4,7 +4,7 @@
 > Your BCash doesn't go anywhere. <br/>
 > As of 02/08 18:20 UTC, the known exchange sites to support BCash deposits are HitBTC and ViaBTC.
 
-This guide assumes you had Bitcoins in possesion prior the hard fork, and you know your private key for those Bitcoins.
+This guide assumes you had Bitcoins in possession prior the hard fork, and you know your private key for those Bitcoins.
 
 ## Step 1 - Secure your Bitcoins
 
