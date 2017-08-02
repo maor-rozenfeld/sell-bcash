@@ -49,7 +49,7 @@ There's no magic that transforms BCash into Bitcoin. You'll need to sell it in a
 The following exchange sites are said to support BCash deposits.
 
 * [HitBTC](https://hitbtc.com/) is accepting BCash deposits, without any customer verification process, and allow you to exchange it only after 2 confirmations.
-* [ViaBTC](https://www.viabtc.com/) is accepting BCH deposits, and you can exchange it only after 20 confirmations.
+* [ViaBTC](https://www.viabtc.com/) is accepting BCash deposits, and you can exchange it after 1 confirmation. But you need to wait for 20 confirmations to withdrawal the received Bitcoins. Name, mobile number and ID card number are requiered for verification.
 
 >***Warning: we don't know if any of these exchange sites will actually let you withdraw your Bitcoins, it's on your own risk. I will update once we have proven reports***
 
