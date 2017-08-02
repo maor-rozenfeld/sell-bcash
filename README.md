@@ -16,7 +16,7 @@ To make sure your Bitcoins don't get lost or stolen, you will need to move them 
 
 If you're using a wallet like Electrum, *you must create a new seed*, keep it safe and don't share it with anyone. Once you have your new wallet up, send your bitcoins to the new wallet.
 
-If all you have is a private key, you can accomplish this via the supported wallets [listed here](http://bitcoin.org/en/choose-your-wallet). For example, in the online [blockchain wallet](http://blockchain.info/wallet), you should create an account, go to *Settings*, *Addresses*, and then *Import Addresses*. Paste your private key, and you'll then be able to *Spend* the address balance to a new one of your choice. *Note: Using Blockchain wallet itself, with a seed, isn't considered the most secure by some, but in this case we're only importing an address and spending it immediatly*. 
+If all you have is a private key, you can accomplish this via [the supported wallets](http://bitcoin.org/en/choose-your-wallet). For example, in the online [blockchain wallet](http://blockchain.info/wallet), you should create an account, go to *Settings*, *Addresses*, and then *Import Addresses*. Paste your private key, and you'll then be able to *Spend* the address balance to a new one of your choice. *Note: Using Blockchain wallet itself, with a seed, isn't considered the most secure by some, but in this case we're only importing an address and spending it immediatly*. 
 
 
 ## Step 2 - Install a BCash wallet and import your old Bitcoin address
