@@ -7,11 +7,12 @@ As of 02/08 11:00 UTC, it's not easy or possible to deposit BCH to any of the le
 ## Step 1 - Secure your Bitcoin
 
 To make sure your Bitcoins don't get lost or stolen, you will need to move them to a new wallet.
+
 YOU MUST CREATE A NEW SEED, keep it safe and don't share it with anyone.
+
 Once you have your new wallet up, send your bitcoins to the new wallet.
 If all you have is a private key, you can accomplish this is via the supported wallets listed here https://bitcoin.org/en/choose-your-wallet.
 
-*To be continued*
 
 ## Step 2 - Install a BCH wallet and import your old Bitcoin address
 
