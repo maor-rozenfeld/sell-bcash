@@ -2,7 +2,6 @@
 
 > **TAKE A DEEP BREATH**<br/>
 > Your BCash doesn't go anywhere. <br/>
-> As of 02/08 17:00 UTC, it is not possible to deposit BCash to an exchange in order to trade it for Bitcoin. Please be patient and check this guide later.
 
 This guide assumes you had Bitcoins in possesion prior the hard fork, and you know your private key for those Bitcoins.
 
@@ -16,7 +15,7 @@ To make sure your Bitcoins don't get lost or stolen, you will need to move them 
 
 If you're using a wallet like Electrum, *you must create a new seed*, keep it safe and don't share it with anyone. Once you have your new wallet up, send your bitcoins to the new wallet.
 
-If all you have is a private key, you can accomplish this via the supported wallets [listed here](http://bitcoin.org/en/choose-your-wallet). For example, in the online [blockchain wallet](http://blockchain.info/wallet), you should create an account, go to *Settings*, *Addresses*, and then *Import Addresses*. Paste your private key, and you'll then be able to *Spend* the address balance to a new one of your choice. *Note: Using Blockchain wallet itself, with a seed, isn't considered the most secure by some, but in this case we're only importing an address and spending it immediatly*. 
+If all you have is a private key, you can accomplish this via the supported wallets [listed here](http://bitcoin.org/en/choose-your-wallet). For example, in the online [blockchain wallet](http://blockchain.info/wallet), you should create an account, go to *Settings*, *Addresses*, and then *Import Addresses*. Paste your private key, and you'll then be able to *Spend* the address balance to a new one of your choice. *Note: Using Blockchain wallet itself, with a seed, isn't considered the most secure by some, but in this case we're only importing an address and spending it immediatly*.
 
 
 ## Step 2 - Install a BCash wallet and import your old Bitcoin address
@@ -28,7 +27,7 @@ To send your BCash to an exchange you'll have to use a wallet of the BCash netwo
 
 ***how?***
 
-Support for BCash isn't huge. The most obvious way to do this currently is with [Electrum Cash](http://electroncash.org/). Note that Electrum Cash has nothing to do with the real Electrum, and we cannot trust this app fully - it *may steal your Bitcoins*. It is advised to run it in a [Virtual Machine](https://www.howtogeek.com/196060/beginner-geek-how-to-create-and-use-virtual-machines/). 
+Support for BCash isn't huge. The most obvious way to do this currently is with [Electrum Cash](http://electroncash.org/). Note that Electrum Cash has nothing to do with the real Electrum, and we cannot trust this app fully - it *may steal your Bitcoins*. It is advised to run it in a [Virtual Machine](https://www.howtogeek.com/196060/beginner-geek-how-to-create-and-use-virtual-machines/).
 
 Once you install the wallet, import your old Bitcoin address with the private key. The wallet might show the Bitcoin transaction to the new address (a bug?) but you should still be able to spend your BCash.
 
@@ -41,9 +40,12 @@ There's no magic that transforms BCash into Bitcoin. You'll need to sell it in a
 
 ***how?***
 
-Sadly, BCash deposits are still not available at the exchange sites. Once they become available, we'll continue this guide.
+- [HitBTC](https://hitbtc.com/) is accepting BCH deposits, without any KYC, and you can exchange it after only 2 confirmations.
+- [ViaBTC](https://www.viabtc.com/) is accepting BCH deposits, and you can exchange it after only 20 confirmations.
 
 BCash mining is currenly really slow, with many hours between each mined block. Only after a difficulty adjustment, the network will be usable.
+
+You can check the blocks being mined on [BlockDozer](http://blockdozer.com/insight/blocks).
 
 
 ## Step 4 - Sell the BCash for Bitcoins
