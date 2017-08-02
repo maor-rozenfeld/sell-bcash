@@ -43,12 +43,15 @@ Once you install the wallet, import your old Bitcoin address with the private ke
 
 There's no magic that transforms BCash into Bitcoin. You'll need to sell it in an exchange site.
 
+
 ***how?***
 
 The following exchange sites are said to support BCash deposits.
 
 * [HitBTC](https://hitbtc.com/) is accepting BCash deposits, without any customer verification process, and allow you to exchange it only after 2 confirmations.
-- [ViaBTC](https://www.viabtc.com/) is accepting BCH deposits, and you can exchange it only after 20 confirmations.
+* [ViaBTC](https://www.viabtc.com/) is accepting BCH deposits, and you can exchange it only after 20 confirmations.
+
+>***Warning: we don't know if any of these exchange sites will actually let you withdraw your Bitcoins, it's on your own risk. I will update once we have proven reports***
 
 You can check the blocks being mined on [BlockDozer](http://blockdozer.com/insight/blocks) or [Blockchair](https://blockchair.com/bitcoin-cash/blocks).
 
@@ -60,9 +63,10 @@ More detailed instructions will follow, but each exchange site has its own inter
 ## Step 5 - Withdraw your free Bitcoins to your new Bitcoin address
 
 ***why?***
+
 **Your Bitcoins aren't yours if you don't own the private keys.** You should only leave Bitcoin in an exchange site if you're actively trading it. If you're not, **do not leave it in the exchange site**. Exchange sites are being hacked day and night and people lose their Bitcoins because of this mistake.
+
 
 ***how?***
 
 More detailed instructions will follow, but feel free to withdraw the free Bitcoin to the new address you've created on Step 1, or create another new address if you like.
-
