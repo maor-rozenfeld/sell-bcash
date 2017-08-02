@@ -39,6 +39,8 @@ If using a Ledger Hardware wallet such as Ledger Blue or Nano S follow this guid
 
 http://support.ledgerwallet.com/knowledge_base/topics/bitcoin-cash
 
+For Trezor Hardware Wallet instructions refer to: https://blog.trezor.io/claim-bcash-bitcoin-cash-bch-bcc-trezor-wallet-f0a810d5864a
+
 ## Step 3 - Send the BCash to an exchange of your choice
 
 ***why?***
