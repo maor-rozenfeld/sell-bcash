@@ -1,5 +1,9 @@
 # A complete guide to selling your free BCash for Bitcoin
 
+> As others have pointed out, it's your choice to decide whether to sell the BCash or hold it. I am not here to give trading advice. This guide is only meant to help people who have decided to sell their BCash for Bitcoin.
+>
+> If you don't want to sell, there's nothing you need to do really. You don't need to "claim" your BCash, you already have it.
+
 This guide assumes you had Bitcoins in your possession prior to the hard fork, and you know the private key for those Bitcoins.
 
 
