@@ -58,7 +58,7 @@ The following exchange sites are said to support BCash deposits:
 * [HitBTC](https://hitbtc.com/) is accepting BCash deposits, without any customer verification process, and allows you to exchange it only after 2 confirmations.
 * [ViaBTC](https://www.viabtc.com/) is accepting BCash deposits, and you can exchange it after 1 confirmation. But you need to wait for 20 confirmations to withdraw the received Bitcoins. Name, mobile number and ID card number are required for verification.
 
-HitBTC seems like the best option for now, with only 2 required confirmations and fast withdrawal the BTC. In HitBTC, simply register and go to ***Account***, find the ***BCC Bitcoin Cash*** row and click the plus icon ("Fund"). You'll receieve a BCash address and you'll need to send your BCash to that address. You can do that with Electron Cash.
+HitBTC seems like the best option for now, with only 2 required confirmations and fast withdrawal of the Bitcoins. In HitBTC, simply register and go to ***Account***, find the ***BCC Bitcoin Cash*** row and click the plus icon ("Fund"). You'll receieve a BCash address and you'll need to send your BCash to that address. You can do that with Electron Cash.
 
 Once you make the transaction you can see it at the bottom of the page (should be instant). After 2 confirmations, your balance will update. You can check the blocks being mined on [BlockDozer](http://blockdozer.com/insight/blocks) or [Blockchair](https://blockchair.com/bitcoin-cash/blocks).
 
