@@ -1,7 +1,7 @@
 
 As a general rule, it is considered a lot more secure to compile a software yourself, rather than download the already compiled binaries from the internet.
 
-Follow the instructions to compile the full Bitcoin ABC wallet:
+Follow the instructions to compile the full Bitcoin ABC wallet, which you can use to spend your BCash:
 
 * Grab the source from [here](https://github.com/Bitcoin-ABC/bitcoin-abc)
 * Compile it. You follow [this guide](https://gist.github.com/kostaz/19729e6d53adc5d1606c).
