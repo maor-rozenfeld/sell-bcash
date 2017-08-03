@@ -1,9 +1,5 @@
 # A complete guide to selling your free BCash for Bitcoin
 
-> **TAKE A DEEP BREATH**<br/>
-> Your BCash isn't going anywhere. <br/>
-> As of 02/08 18:20 UTC, the known exchange sites to support BCash deposits are HitBTC and ViaBTC.
-
 This guide assumes you had Bitcoins in your possession prior to the hard fork, and you know the private key for those Bitcoins.
 
 
