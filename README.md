@@ -58,15 +58,18 @@ The following exchange sites are said to support BCash deposits:
 * [HitBTC](https://hitbtc.com/) is accepting BCash deposits, without any customer verification process, and allows you to exchange it only after 2 confirmations.
 * [ViaBTC](https://www.viabtc.com/) is accepting BCash deposits, and you can exchange it after 1 confirmation. But you need to wait for 20 confirmations to withdraw the received Bitcoins. Name, mobile number and ID card number are required for verification.
 
->***Warning: we don't know if any of these exchange sites will actually let you withdraw your Bitcoins. Use at your own risk. I will update once we have proven reports***
+HitBTC seems like the best option for now, with only 2 required confirmations and fast withdrawal the BTC. In HitBTC, simply register and go to ***Account***, find the ***BCC Bitcoin Cash*** row and click the plus icon ("Fund"). You'll receieve a BCash address and you'll need to send your BCash to that address. You can do that with Electron Cash.
 
-You can check the blocks being mined on [BlockDozer](http://blockdozer.com/insight/blocks) or [Blockchair](https://blockchair.com/bitcoin-cash/blocks).
+Once you make the transaction you can see it at the bottom of the page (should be instant). After 2 confirmations, your balance will update. You can check the blocks being mined on [BlockDozer](http://blockdozer.com/insight/blocks) or [Blockchair](https://blockchair.com/bitcoin-cash/blocks).
+
+Once your balance updates, make sure to move your BCash from the ***Main Account*** to the ***Trade Account***. This can be done in the same page, in the ***BCC Bitcoin Cash*** row.
 
 
 ## Step 4 - Sell the BCash for Bitcoins
 
-More detailed instructions will follow, but each exchange site has its own interface and it should be pretty straightforward.
+Each exchange site has its own interface and it should be pretty straightforward.
 
+In HitBTC, simply navigate to ***Exchange***, choose ***BCC*** on the table to the right ("Instruments"), and fill the fields under ***Sell BCC*** (Limit).
 
 ## Step 5 - Withdraw your free Bitcoins to your new Bitcoin address
 
