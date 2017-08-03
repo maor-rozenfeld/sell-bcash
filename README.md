@@ -23,7 +23,9 @@ If you're using a wallet like Electrum, **you must create a new seed**, keep it 
 
 If all you have is a private key, you can import it to a wallet and send the Bitcoins to a new wallet via [the supported wallets](http://bitcoin.org/en/choose-your-wallet). 
 
-For example, in the online [Blockchain Wallet](http://blockchain.info/wallet), you'll need to create an account, go to **Settings**, **Addresses**, and then **Import Addresses**. Paste your private key, and you'll then be able to **Spend** the address balance to a new one of your choice. *Note: Using Blockchain Wallet itself, with a seed, isn't considered the most secure by some, but here we're only importing an address and then spending it immediately*.
+For example, in the online [Blockchain Wallet](http://blockchain.info/wallet), you'll need to create an account, go to **Settings**, **Addresses**, and then **Import Addresses**. Paste your private key, and you'll then be able to **Spend** the address balance to a new one of your choice. 
+
+> *Note: Using Blockchain Wallet itself, with a seed, isn't considered the most secure by some, but here we're only importing an address and then spending it immediately.*
 
 
 ## Step 2 - Install a BCash wallet and import your old Bitcoin address
