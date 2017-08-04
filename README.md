@@ -5,7 +5,7 @@
 >
 > **The price of Bitcoin and other cryptocurrencies are very highly volatile. It is common for prices to increase or decrease by over 100% in a single day. Although this could mean potential huge profits, this also could mean potential huge losses. Only invest money which you are willing to lose.**
 >
-> I cannot and will not help you decide if selling BCash for Bitcoin will be financially beneficial in the long term. All steps are taken at your own risk. If you don't want to sell, you're not required to do any action. You do not need to "claim" your BCash, since you already have it.
+> I cannot and will not help you decide if selling BCash for Bitcoin will be financially beneficial in the long term. All steps are taken at your own risk. If you don't want to sell, you're not required to do any action. You do not need to "claim" your BCash, since you already have it. However, it still advised to follow steps 1 and 2 to move your BCash to a new address.
 
 This guide assumes you had Bitcoins in your possession prior to the hard fork, and you know the private key for those Bitcoins. If you had Bitcoins in an exchange site, it's up to them to decide whether to give you BCash or not.
 
