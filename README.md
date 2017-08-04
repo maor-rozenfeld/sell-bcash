@@ -7,7 +7,7 @@
 >
 > I cannot and will not help you decide if selling BCash for Bitcoin will be financially beneficial in the long term. All steps are taken at your own risk. If you don't want to sell, you're not required to do any action. You do not need to "claim" your BCash, since you already have it.
 
-This guide assumes you had Bitcoins in your possession prior to the hard fork, and you know the private key for those Bitcoins. If you had Bitcoins in an exchange site, it's up for them to decide whether to give you BCash or not.
+This guide assumes you had Bitcoins in your possession prior to the hard fork, and you know the private key for those Bitcoins. If you had Bitcoins in an exchange site, it's up to them to decide whether to give you BCash or not.
 
 ## Step 1 - Secure your Bitcoins
 
@@ -25,7 +25,7 @@ If all you have is a private key, you can import it to a wallet and send the Bit
 
 For example, in the online [Blockchain Wallet](http://blockchain.info/wallet), you'll need to create an account, go to **Settings**, **Addresses**, and then **Import Addresses**. Paste your private key, and you'll then be able to **Spend** the address balance to a new one of your choice. 
 
-> *Note: Using Blockchain Wallet itself, with a seed, isn't considered the most secure by some, but here we're only importing an address and then spending it immediately.*
+> *Note: Using Blockchain Wallet itself with a seed isn't considered the most secure by some, but here we're only importing an address and then spending it immediately.*
 
 
 ## Step 2 - Install a BCash wallet and import your old Bitcoin address
@@ -63,10 +63,10 @@ There's no magic that transforms BCash into Bitcoin. You'll need to sell it on a
 
 The following exchange sites support BCash deposits:
 
-* [Bitfinex](https://bitfinex.com/) deposits are credited afer 20 confirmations. No verification requiered for Bitcoin withdrawals.
-* [Bittrex](https://bittrex.com/) deposits are credited afer 20 confirmations. Peronal information is requiered for withdrawals.
-* [HitBTC](https://hitbtc.com/) deposits are credited afer 2 confirmations. No verification requiered for Bitcoin withdrawals.
-* [ViaBTC](https://www.viabtc.com/) deposits are credited afer 1 confirmation. But you need to wait for 20 confirmations to withdraw the received Bitcoins. Peronal information and mobil number are required for Bitcoin withdrawals.
+* [Bitfinex](https://bitfinex.com/) deposits are credited afer 20 confirmations. No verification required for Bitcoin withdrawals.
+* [Bittrex](https://bittrex.com/) deposits are credited afer 20 confirmations. Personal information is required for withdrawals.
+* [HitBTC](https://hitbtc.com/) deposits are credited afer 2 confirmations. No verification required for Bitcoin withdrawals.
+* [ViaBTC](https://www.viabtc.com/) deposits are credited afer 1 confirmation. But you need to wait for 20 confirmations to withdraw the received Bitcoins. Personal information and mobile number are required for Bitcoin withdrawals.
 
 Bitfinex is the most trusted and oldest exchange of the exchanges listed above. If you don't want to wait for 20 confirmations (which could take more than 12 hours), HitBTC is the quickest way to get your Bitcoins.
 
