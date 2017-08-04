@@ -63,10 +63,14 @@ There's no magic that transforms BCash into Bitcoin. You'll need to sell it on a
 
 The following exchange sites support BCash deposits:
 
-* [Bitfinex](https://bitfinex.com/) deposits are credited afer 20 confirmations. No verification required for Bitcoin withdrawals.
-* [Bittrex](https://bittrex.com/) deposits are credited afer 20 confirmations. Personal information is required for withdrawals.
-* [HitBTC](https://hitbtc.com/) deposits are credited afer 2 confirmations. No verification required for Bitcoin withdrawals.
-* [ViaBTC](https://www.viabtc.com/) deposits are credited afer 1 confirmation. But you need to wait for 20 confirmations to withdraw the received Bitcoins. Personal information and mobile number are required for Bitcoin withdrawals.
+ Exchange | Minimum Confirmations | Verification for BTC withdrawals
+----------|-----------------------|-------------
+[Bitfinex](https://bitfinex.com/) | 20 | None 
+[Bittrex](https://bittrex.com/) | 20 | Personal information is required
+[HitBTC](https://hitbtc.com/) | 2 | None
+[ViaBTC](https://www.viabtc.com/) | 20* | Personal information and mobile number are required for Bitcoin withdrawals.
+
+* *In ViaBTC you can sell BCash after 1 confirmation, but only after 20 confirmations it is allowed to withdrawal the Bitcoins*
 
 Bitfinex is the most trusted and oldest exchange of the exchanges listed above. If you don't want to wait for 20 confirmations (which could take more than 12 hours), HitBTC is the quickest way to get your Bitcoins.
 
