@@ -48,6 +48,10 @@ Once you install the wallet, import your old Bitcoin address with the private ke
 * [Instructions for Trezor owners](https://blog.trezor.io/claim-bcash-bitcoin-cash-bch-bcc-trezor-wallet-f0a810d5864a)
 * [Instructions for Digital Bitbox owners](https://digitalbitbox.com/faq)
 
+### Using the original ABC wallet
+
+**ABC** is the original name of BCash. See [the instructions](COMPILE_ABC.md) to compile and use the full wallet.
+
 
 ## Step 3 - Send the BCash to an exchange of your choice
 
