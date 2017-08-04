@@ -63,11 +63,14 @@ There's no magic that transforms BCash into Bitcoin. You'll need to sell it on a
 
 The following exchange sites are said to support BCash deposits:
 
+* [Bitfinex](https://bitfinex.com/ is accepting BCash deposits and allows you to exchange it after 20 confirmations. No verification is requiered for Bitcoin withdrawals.
+* [Bittrex](https://bittrex.com/) is accepting BCash deposits and allows you to exchange it after 20 confirmations. Peronal information is requiered for withdrawals.
 * [HitBTC](https://hitbtc.com/) is accepting BCash deposits, without any customer verification process, and allows you to exchange it only after 2 confirmations.
 * [ViaBTC](https://www.viabtc.com/) is accepting BCash deposits, and you can exchange it after 1 confirmation. But you need to wait for 20 confirmations to withdraw the received Bitcoins. Name, mobile number and ID card number are required for verification.
-* [Bittrex](https://bittrex.com/) is accepting BCash deposits and allows you to exchange it after 20 confirmations. Peronal information is requiered for withdrawals.
 
-HitBTC seems like the best option for now, with only 2 required confirmations and fast withdrawal of the Bitcoins. In HitBTC, simply register and go to ***Account***, find the ***BCC Bitcoin Cash*** row and click the plus icon ("Fund"). You'll receieve a BCash address and you'll need to send your BCash to that address. You can do that with Electron Cash.
+Bitfinex is the most trusted and oldest exchange of the exchanges listed above. If you don't want to wait for 20 confirmations (which could take more than 12 hours), HitBTC is the quickest way to get your Bitcoins.
+
+In HitBTC, simply register and go to ***Account***, find the ***BCC Bitcoin Cash*** row and click the plus icon ("Fund"). You'll receieve a BCash address and you'll need to send your BCash to that address. You can do that with Electron Cash.
 
 Once you make the transaction you can see it at the bottom of the page (should be instant). After 2 confirmations, your balance will update. You can check the blocks being mined on [BlockDozer](http://blockdozer.com/insight/blocks) or [Blockchair](https://blockchair.com/bitcoin-cash/blocks).
 
