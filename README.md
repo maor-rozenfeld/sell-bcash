@@ -66,11 +66,11 @@ The following exchange sites support BCash deposits:
  Exchange | Minimum Confirmations | Verification for BTC withdrawals
 ----------|-----------------------|-------------
 [Bitfinex](https://bitfinex.com/) | 20 | None 
-[Bittrex](https://bittrex.com/) | 20 | Personal information is required
+[Bittrex](https://bittrex.com/) | 20 | Personal information and 2-step-verification is required.  Withdrawal is limited for 3 BTC per day .
 [HitBTC](https://hitbtc.com/) | 2 | None
 [ViaBTC](https://www.viabtc.com/) | 20* | Personal information and mobile number are required for Bitcoin withdrawals.
-
-* *In ViaBTC you can sell BCash after 1 confirmation, but only after 20 confirmations it is allowed to withdrawal the Bitcoins*
+ 
+`* In ViaBTC you can sell BCash after 1 confirmation, but only after 20 confirmations it is allowed to withdrawal the Bitcoins`
 
 Bitfinex is the most trusted and oldest exchange of the exchanges listed above. If you don't want to wait for 20 confirmations (which could take more than 12 hours), HitBTC is the quickest way to get your Bitcoins.
 
