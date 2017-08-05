@@ -9,6 +9,11 @@
 
 This guide assumes you had Bitcoins in your possession prior to the hard fork, and you know the private key for those Bitcoins. If you had Bitcoins in an exchange site, it's up to them to decide whether to give you BCash or not.
 
+
+* [Step 1 - Secure your Bitcoins](#step-1-secure-your-bitcoins)
+
+
+
 ## Step 1 - Secure your Bitcoins
 
 ***why?***
