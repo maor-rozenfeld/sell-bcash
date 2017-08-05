@@ -73,7 +73,7 @@ There's no magic that transforms BCash into Bitcoin. You'll need to sell it on a
 
 The following exchange sites support BCash deposits:
 
- Exchange | Minimum Confirmations | Verification for BTC withdrawals
+ Exchange | Minimum Confirmations for BCash deposits (the less the better) | Verification required for BTC withdrawals
 ----------|-----------------------|-------------
 [Bitfinex](https://bitfinex.com/) | 20 | None 
 [Bittrex](https://bittrex.com/) | 20 | Personal information and 2-step-verification is required.  Withdrawal is limited for 3 BTC per day.
