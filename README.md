@@ -9,9 +9,14 @@
 
 This guide assumes you had Bitcoins in your possession prior to the hard fork, and you know the private key for those Bitcoins. If you had Bitcoins in an exchange site, it's up to them to decide whether to give you BCash or not.
 
-
-* [Step 1 - Secure your Bitcoins](#step-1-secure-your-bitcoins)
-
+**TOC**
+* [Step 1 - Secure your Bitcoins](#step-1---secure-your-bitcoins)
+* [Step 2 - Install a BCash wallet and import your old Bitcoin address](#step-2---install-a-bcash-wallet-and-import-your-old-bitcoin-address)
+  + [Hardware Wallets](#hardware-wallets)
+  + [Using the original ABC wallet](#using-the-original-abc-wallet)
+* [Step 3 - Send the BCash to an exchange of your choice](#step-3---send-the-bcash-to-an-exchange-of-your-choice)
+* [Step 4 - Sell the BCash for Bitcoins](#step-4---sell-the-bcash-for-bitcoins)
+* [Step 5 - Withdraw your free Bitcoins to your new Bitcoin address](#step-5---withdraw-your-free-bitcoins-to-your-new-bitcoin-address)
 
 
 ## Step 1 - Secure your Bitcoins
