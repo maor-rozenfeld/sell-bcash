@@ -73,20 +73,20 @@ There's no magic that transforms BCash into Bitcoin. You'll need to sell it on a
 
 The following exchange sites support BCash deposits:
 
- Exchange | Minimum Confirmations for BCash deposits (the less the better) | Verification required for BTC withdrawals
+ Exchange | Minimum Confirmations for BCash deposits (the fewer the better) | Verification required for BTC withdrawals
 ----------|-----------------------|-------------
 [Bitfinex](https://bitfinex.com/) | 20 | None 
-[Bittrex](https://bittrex.com/) | 10 | Personal information and 2-step-verification is required.  Withdrawal is limited for 3 BTC per day.
-[Bter](https://bter.com/) | 3 | Passport photo is required.  Withdrawal is limited for 1 BTC per day.
+[Bittrex](https://bittrex.com/) | 10 | Personal information and 2-step-verification is required.  Withdrawal is limited to 3 BTC per day.
+[Bter](https://bter.com/) | 3 | Passport photo is required.  Withdrawal is limited to 1 BTC per day.
 [HitBTC](https://hitbtc.com/) | 2 | None
 [Kraken](https://www.kraken.com/) | 20 | Personal information and mobile number are required for Bitcoin withdrawals.
 [ViaBTC](https://www.viabtc.com/) | 20* | Personal information and mobile number are required for Bitcoin withdrawals.
 
-`* In ViaBTC you can sell BCash after 1 confirmation, but only after 20 confirmations it is allowed to withdrawal the Bitcoins`
+`* In ViaBTC you can sell BCash after 1 confirmation, but you must wait for 20 confirmations to withdraw the Bitcoins`
 
 Kraken is the most trusted and oldest exchange of the exchanges listed above. If you don't want to wait for 20 confirmations (which could take more than 12 hours), HitBTC is the quickest way to get your Bitcoins.
 
-In HitBTC, simply register and go to ***Account***, find the ***BCC Bitcoin Cash*** row and click the plus icon ("Fund"). You'll receieve a BCash address and you'll need to send your BCash to that address. You can do that with Electron Cash.
+In HitBTC, simply register and go to ***Account***, find the ***BCC Bitcoin Cash*** row and click the plus icon ("Fund"). You'll receive a BCash address and you'll need to send your BCash to that address. You can do that with Electron Cash.
 
 Once you make the transaction you can see it at the bottom of the page (should be instant). After 2 confirmations, your balance will update. You can check the blocks being mined on [BlockDozer](http://blockdozer.com/insight/blocks) or [Blockchair](https://blockchair.com/bitcoin-cash/blocks).
 
