@@ -77,11 +77,12 @@ The following exchange sites support BCash deposits:
 
  Exchange | Minimum Confirmations for BCash deposits (the fewer the better) | Verification required for BTC withdrawals
 ----------|-----------------------|-------------
-[Bitfinex](https://bitfinex.com/) | 20 | None 
+[Bitfinex](https://bitfinex.com/) | 12 | None 
 [Bittrex](https://bittrex.com/) | 10 | Personal information and 2-step-verification is required.  Withdrawal is limited to 3 BTC per day.
 [Bter](https://bter.com/) | 3 | Passport photo is required.  Withdrawal is limited to 1 BTC per day.
 [HitBTC](https://hitbtc.com/) | 2 | None
 [Kraken](https://www.kraken.com/) | 20 | Personal information and mobile number are required for Bitcoin withdrawals.
+[Poloniex](https://poloniex.com/) | 6 | Personal information, mobile number, ID and photo are required for Bitcoin withdrawals above 2000 USD.
 [ViaBTC](https://www.viabtc.com/) | 20* | Personal information and mobile number are required for Bitcoin withdrawals.
 
 `* In ViaBTC you can sell BCash after 1 confirmation, but you must wait for 20 confirmations to withdraw the Bitcoins`
