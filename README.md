@@ -113,13 +113,12 @@ In HitBTC, simply navigate to ***Exchange***, choose ***BCC*** on the table to t
 
 More detailed instructions will follow, but feel free to send the free Bitcoin to the new address you created in Step 1, or use another new address if you like.
 
-Google analytics:
-
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-    ga('create', 'UA-52256363-2', 'auto');
-    ga('send', 'pageview');
-  </script>
+<!-- Google analytics: -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-52256363-2', 'auto');
+  ga('send', 'pageview');
+</script>
