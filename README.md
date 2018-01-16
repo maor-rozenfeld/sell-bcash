@@ -84,6 +84,7 @@ The following exchange sites support BCash deposits:
 [Kraken](https://www.kraken.com/) | 20 | Personal information and mobile number are required for Bitcoin withdrawals.
 [Poloniex](https://poloniex.com/) | 6 | Personal information, mobile number, ID and photo are required for Bitcoin withdrawals above 2000 USD.
 [ViaBTC](https://www.viabtc.com/) | 20* | Personal information and mobile number are required for Bitcoin withdrawals.
+[Coinbase](https://www.coinbase.com) | 6 | Coinbase will lock in the price for you when you buy/sell, but it can often take up to a week to transfer funds to/from your bank account.
 
 `* In ViaBTC you can sell BCash after 1 confirmation, but you must wait for 20 confirmations to withdraw the Bitcoins`
 
